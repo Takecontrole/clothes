@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.container {
+font-family: 'Raleway', sans-serif;
+}
+
+.Announcement {
+font-family: 'Raleway', sans-serif;
+}
+.logo {
+  font-family: 'Playfair Display', serif;
+}
+.product {
+  font-family: 'Roboto', sans-serif;
+}
