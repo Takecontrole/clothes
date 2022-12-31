@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/clothes/static/css/main.e182b552.css",
+    "main.js": "/clothes/static/js/main.ae43f422.js",
+    "static/media/brends.mp4": "/clothes/static/media/brends.423ae03fd37e5f0baf49.mp4",
+    "static/media/nick-karvounis-A5ijizgveQA-unsplash (1).jpg": "/clothes/static/media/nick-karvounis-A5ijizgveQA-unsplash (1).d8a749a58211b7ad438d.jpg",
+    "static/media/raphael-nast-HyaSbSRA39A-unsplash.jpg": "/clothes/static/media/raphael-nast-HyaSbSRA39A-unsplash.7e5d7d5da5db08a70082.jpg",
+    "static/media/dei-r-0JFNDQKSknA-unsplash.jpg": "/clothes/static/media/dei-r-0JFNDQKSknA-unsplash.67c7d50c759d00808bf7.jpg",
+    "static/media/6YEFp1_MXe4.jpg": "/clothes/static/media/6YEFp1_MXe4.634fb24811b0ffa43964.jpg",
+    "static/media/ian-dooley-iGh7qbW9kUM-unsplash.jpg": "/clothes/static/media/ian-dooley-iGh7qbW9kUM-unsplash.1f78ab19af4be1c8db7b.jpg",
+    "static/media/PlayfairDisplay-MediumItalic.ttf": "/clothes/static/media/PlayfairDisplay-MediumItalic.69c89309175b14e01cc3.ttf",
+    "static/media/Raleway-Thin.ttf": "/clothes/static/media/Raleway-Thin.37b903083fc82c0bdc17.ttf",
+    "index.html": "/clothes/index.html",
+    "main.e182b552.css.map": "/clothes/static/css/main.e182b552.css.map",
+    "main.ae43f422.js.map": "/clothes/static/js/main.ae43f422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e182b552.css",
+    "static/js/main.ae43f422.js"
+  ]
+}
